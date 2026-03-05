@@ -1,0 +1,7 @@
+project_id = "sohtqknrpmvvzfsqyvva"
+
+[functions.execute-code]
+verify_jwt = false
+
+[functions.matchmaking]
+verify_jwt = false
